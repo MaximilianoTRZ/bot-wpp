@@ -13,3 +13,7 @@ This is a WhatsApp bot that uses the [whatsapp-web.js](https://github.com/pedros
 2. Run the project:
    - Dev mode with nodemon: `npm run dev`
    - Normal mode: `npm start`
+
+## Important!
+
+If the QR is not shown, please delete de wwebjs_auth folder and run the bot again.
